@@ -6,7 +6,7 @@ export const projects = [
       "Utilizing React.js, TailwindCSS, and JavaScript, I  transformed a Figma design into a captivating modern bank landing page. To deliver a fully responsive user experience across all devices. The page offers a modern interface that resonates with today's digital-savvy users. With attention to detail and a focus on user interaction, this landing page sets a new standard for online banking experiences.",
     image: "/images/1.png",
     tags: ["TailwindCSS", "React", "JavaScript"],
-    source: "https://aqua-cattle-579152.hostingersite.com/",
+    source: "https://modern-bank-app-woad.vercel.app/",
     visit:
       "https://github.com/taneracar/ReactProjects/tree/main/bank_modern_app",
     id: 0,
