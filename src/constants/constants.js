@@ -8,7 +8,7 @@ export const projects = [
     tags: ["TailwindCSS", "React", "JavaScript"],
     source: "https://modern-bank-app-woad.vercel.app/",
     visit:
-      "https://github.com/taneracar/ReactProjects/tree/main/bank_modern_app",
+      "https://github.com/taneracar/modern_bank_app",
     id: 0,
   },
   {
@@ -18,7 +18,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["React", "JavaScript"],
     source: "https://gpt3-henna.vercel.app/",
-    visit: "https://github.com/taneracar/ReactProjects/tree/main/gpt_tanerr",
+    visit: "https://github.com/taneracar/Gpt3",
     id: 1,
   },
   {
@@ -29,7 +29,7 @@ export const projects = [
     tags: ["React", "JavaScript"],
     source: "https://restaurant-app-psi-seven.vercel.app/",
     visit:
-      "https://github.com/taneracar/ReactProjects/tree/main/gerich-restaurant-app",
+      "https://github.com/taneracar/Restaurant_App",
     id: 2,
   },
   {
@@ -38,9 +38,9 @@ export const projects = [
       "Get ready to dive into the blend of advanced tech and stylish design in this contemporary Nike landing page. Created using React for dynamic functions and Tailwind CSS for polished styles, every aspect is carefully crafted for a smooth and engaging user journey. With fluid animations and adaptable layouts, it's a glimpse into the future of web development, all right here in this dynamic showcase.",
     image: "/images/4.png",
     tags: ["React", "JavaScript","TailwindCSS"],
-    source: "https://darkorange-crane-152490.hostingersite.com/",
+    source: "https://landing-nike-livid.vercel.app/",
     visit:
-      "https://github.com/taneracar/ReactProjects/tree/main/nike-landing",
+      "https://github.com/taneracar/landing-nike",
     id: 3,
   },
 ];
