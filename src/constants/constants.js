@@ -17,7 +17,7 @@ export const projects = [
       "I used React.js and JavaScript to carefully turn a Figma design into a website that works well on all screens. I focused on making the website easy to use and pleasing to look at. Every part of it, like how it moves when you navigate and its nice design, was made to give users a great experience, whether they're using a phone, tablet, or computer. This project shows how design and development can work together smoothly to make a website that's modern and really good to use.",
     image: "/images/2.png",
     tags: ["React", "JavaScript"],
-    source: "https://darkviolet-duck-577166.hostingersite.com/",
+    source: "https://gpt3-henna.vercel.app/",
     visit: "https://github.com/taneracar/ReactProjects/tree/main/gpt_tanerr",
     id: 1,
   },
@@ -27,7 +27,7 @@ export const projects = [
       "Check out our sleek restaurant landing page made with React.js and Figma. We've combined style and substance to give visitors an immersive online experience, inviting them to discover the delicious food and vibe of our client's restaurant. With cool menu displays and eye-catching images, every detail is carefully crafted for a smooth user experience from start to finish. Dive into the next-gen dining scene with our top-notch site, powered by React and inspired by Figma.",
     image: "/images/3.png",
     tags: ["React", "JavaScript"],
-    source: "https://lightcoral-seahorse-142175.hostingersite.com/",
+    source: "https://restaurant-app-psi-seven.vercel.app/",
     visit:
       "https://github.com/taneracar/ReactProjects/tree/main/gerich-restaurant-app",
     id: 2,
