@@ -40,9 +40,6 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/taner-acar-0681602a0/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/1taneracar/">
-            <AiFillInstagram size="3rem" />
-          </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
