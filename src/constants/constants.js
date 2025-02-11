@@ -3,13 +3,23 @@ export const projects = [
     title:
       "Fully Responsive Website with Modern UI/UX in React JS with Tailwind",
     description:
+      "Developed a modern, responsive website for Pelles Automotive using React.js, TailwindCSS, and EmailJS for seamless customer inquiries. Integrated i18next to provide a bilingual experience, allowing users to switch between English and Spanish effortlessly. Focused on delivering a user-friendly interface that enhances accessibility and engagement for customers.",
+    image: "/images/5.png",
+    tags: ["TailwindCSS", "React", "JavaScript"],
+    source: "https://pelles-auto.vercel.app/",
+    visit: "https://github.com/taneracar/pelles-auto",
+    id: 0,
+  },
+  {
+    title:
+      "Fully Responsive Website with Modern UI/UX in React JS with Tailwind",
+    description:
       "Utilizing React.js, TailwindCSS, and JavaScript, I  transformed a Figma design into a captivating modern bank landing page. To deliver a fully responsive user experience across all devices. The page offers a modern interface that resonates with today's digital-savvy users. With attention to detail and a focus on user interaction, this landing page sets a new standard for online banking experiences.",
     image: "/images/1.png",
     tags: ["TailwindCSS", "React", "JavaScript"],
     source: "https://modern-bank-app-woad.vercel.app/",
-    visit:
-      "https://github.com/taneracar/modern_bank_app",
-    id: 0,
+    visit: "https://github.com/taneracar/modern_bank_app",
+    id: 1,
   },
   {
     title: "Fully Responsive Modern UI/UX Website in React JS",
@@ -19,7 +29,7 @@ export const projects = [
     tags: ["React", "JavaScript"],
     source: "https://gpt3-henna.vercel.app/",
     visit: "https://github.com/taneracar/Gpt3",
-    id: 1,
+    id: 2,
   },
   {
     title: "Fully Responsive Modern Restaurant Application",
@@ -28,19 +38,17 @@ export const projects = [
     image: "/images/3.png",
     tags: ["React", "JavaScript"],
     source: "https://restaurant-app-psi-seven.vercel.app/",
-    visit:
-      "https://github.com/taneracar/Restaurant_App",
-    id: 2,
+    visit: "https://github.com/taneracar/Restaurant_App",
+    id: 3,
   },
   {
     title: "Fully Responsive Nike Lannding Page",
     description:
       "Get ready to dive into the blend of advanced tech and stylish design in this contemporary Nike landing page. Created using React for dynamic functions and Tailwind CSS for polished styles, every aspect is carefully crafted for a smooth and engaging user journey. With fluid animations and adaptable layouts, it's a glimpse into the future of web development, all right here in this dynamic showcase.",
     image: "/images/4.png",
-    tags: ["React", "JavaScript","TailwindCSS"],
+    tags: ["React", "JavaScript", "TailwindCSS"],
     source: "https://landing-nike-livid.vercel.app/",
-    visit:
-      "https://github.com/taneracar/landing-nike",
-    id: 3,
+    visit: "https://github.com/taneracar/landing-nike",
+    id: 4,
   },
 ];
