@@ -1,83 +1,62 @@
-# Hi there, I'm Taner Acar! 👋
+# Taner Acar
 
-💻 Frontend Developer | React • Next.js • TypeScript  
-📍 United States
+**Full-stack engineer.** Web and mobile, front to back — I like owning a project from the first vague idea through to something running in production that people actually use.
 
-## 🚀 About Me
+Based in Southern California · B.S. Computer Engineering
 
-I'm a Frontend Developer with a Computer Engineering degree and hands-on experience building modern, responsive web applications.
-
-I enjoy creating smooth user experiences with React, Next.js, and TypeScript while focusing on clean architecture, performance, and scalable UI components.
-
-Previously, I worked as a Frontend Developer at Istcode Digital Agency, where I built production-ready interfaces, integrated APIs, created advanced animations, and collaborated closely with designers and backend developers.
-
-Currently, I'm looking for Frontend Engineer opportunities where I can continue building impactful products and grow as a software engineer.
+Previously at Istcode Digital Agency, where I shipped production software across 7 client projects and spent as much time talking to customers as writing code. Currently freelancing full-stack.
 
 ---
 
-## 🛠️ Tech Stack
+## Selected work
 
-### Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
+**FeelFit — fitness platform, web + mobile.** One product, two clients, shared feature set and data model.
 
-### UI & Animations
-- GSAP
-- Framer Motion
-- Responsive Design
+- **[FeelFit](https://github.com/taneracar/FeelFit)** — the web app. Next.js, TypeScript, Supabase/PostgreSQL. Interactive SVG muscle-map explorer, multi-step onboarding wizard, and workout, nutrition, and weight tracking. Row-level security policies enforce per-user data isolation.
+- **[forge](https://github.com/taneracar/forge)** — the mobile app. React Native and Expo, built against the same backend so features stay in parity across platforms.
 
-### Mobile
-- React Native
-- Expo
-- NativeWind
+**Backend**
 
-### Backend
-- Node.js
-- REST APIs
-- Strapi (Headless CMS)
+- **[subscription-tracker-backend-api](https://github.com/taneracar/subscription-tracker-backend-api)** — REST API with JWT authentication and PostgreSQL, built to work through backend architecture end to end.
+- **[nestjs](https://github.com/taneracar/nestjs)** — NestJS services following modular architecture: controllers, services, DTOs.
+- **[redis-cache](https://github.com/taneracar/redis-cache)** — caching layer implementation and experiments.
 
-### Tools
-- Git
-- GitHub
-- Postman
-- Figma
-- Adobe XD
+**Mobile**
 
-### Analytics & SEO
-- Google Analytics
-- Semrush
-- Technical SEO
-- Keyword Research
+- **[real-estate-app](https://github.com/taneracar/real-estate-app)** · **[movie-app-react-native](https://github.com/taneracar/movie-app-react-native)** — cross-platform apps in React Native, Expo, and TypeScript.
 
 ---
 
-## 📌 Featured Projects
+## How I build
 
-### 🚀 Portfolio Website
-Personal portfolio built with Next.js, TypeScript and Tailwind CSS.
+I work AI-native, and I treat it as infrastructure rather than autocomplete.
 
-🌐 https://taneracarportfolio.vercel.app/
+My primary build loop is an agentic coding environment (Claude Code). I maintain repository-level agent context files — `CLAUDE.md` and `AGENTS.md` — that encode architecture, conventions, and constraints, so agents produce code that fits the project instead of generic output. When I'm working something out, I'd rather build a rough working version and look at it than write a spec about it.
+
+Ship something usable early, then refine against real feedback.
 
 ---
 
-## 📫 Connect With Me
+## Stack
 
-- 💼 LinkedIn: https://www.linkedin.com/in/1taneracar/
-- 💻 GitHub: https://github.com/taneracar
-- 🌐 Portfolio: https://taneracarportfolio.vercel.app/
+**Languages** TypeScript · JavaScript · SQL
 
-## ⚡ Technologies
+**Frontend** React · Next.js · Tailwind CSS · GSAP · Framer Motion
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+**Backend & data** Node.js · Express · NestJS · REST APIs · PostgreSQL · Supabase · Redis · Strapi
+
+**Mobile** React Native · Expo · NativeWind
+
+**Testing & infra** Jest · React Testing Library · GitHub Actions · CI/CD · AWS · Azure · Git
+
+---
+
+## Currently learning
+
+Application security — working through the [PortSwigger Web Security Academy](https://portswigger.net/web-security), focused on injection and broken access control, since those map directly to the authentication and authorization code I write day to day. Took cybersecurity coursework during my degree and want to go deeper on the offensive side.
+
+---
+
+## Reach me
+
+[Portfolio](https://taneracarportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/1taneracar/) · 1taneracar@gmail.com
